@@ -255,6 +255,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Maintainer: Your Name (your.email@example.com)
+- Maintainer: CBS (nizeyimanaplacide2@gmail.com)
 - Issues: [GitHub Issues](https://github.com/yourusername/smart-shop/issues)
 - Discussions: [GitHub Discussions](https://github.com/yourusername/smart-shop/discussions)
